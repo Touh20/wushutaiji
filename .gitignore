@@ -1,0 +1,9 @@
+﻿node_modules/
+.next/
+.env.local
+*.py
+*.js
+!next.config.js
+!postcss.config.js
+!tailwind.config.ts
+!gen_*.js
